@@ -14,8 +14,3 @@ while i < len(numbers) :
           break
     i += 1
 
-#no 2
-hasil = 0
-for i in range (1, 20, 2) :
-     hasil += 1
-print (hasil)
